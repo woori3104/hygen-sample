@@ -36,7 +36,7 @@ This command will prompt you to select the Atomic Design category, provide the c
 ### Folder Structure
 The project follows a typical folder structure
 ```
-my-project/
+hygen-sample/
   ├── src/
   │   ├── components/
   │   │   ├── atoms/
